@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/remember-me/static/css/main.e59f04e5.css",
+    "main.js": "/remember-me/static/js/main.e55b1840.js",
+    "index.html": "/remember-me/index.html",
+    "main.e59f04e5.css.map": "/remember-me/static/css/main.e59f04e5.css.map",
+    "main.e55b1840.js.map": "/remember-me/static/js/main.e55b1840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59f04e5.css",
+    "static/js/main.e55b1840.js"
+  ]
+}
